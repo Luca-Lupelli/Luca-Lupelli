@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey, I'm Luca 👋
 
-<!--
-**Luca-Lupelli/Luca-Lupelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer focused on modern full-stack web applications.
 
-Here are some ideas to get you started:
+## 🧩 Stack
+React · Svelte · Node.js  
+PostgreSQL · MSSQL  
+Docker · Git · Linux  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📍 Current focus
+Full-stack development, databases and backend systems.
+
+## 🌐 Links
+Portfolio: https://luca-lupelli.de  
+GitHub: https://github.com/Luca-Lupelli
