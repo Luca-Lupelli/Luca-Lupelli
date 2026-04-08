@@ -1,4 +1,4 @@
-# Hey, I'm Luca 👋
+# Hi, I'm Luca 👋
 
 Software Developer focused on modern full-stack web applications.
 
